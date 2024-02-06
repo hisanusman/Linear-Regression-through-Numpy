@@ -49,7 +49,5 @@ predictions = model.predict(X_test)
 # Get model weights
 weights = model.get_weights()
 ```
-<br>
-Feel free to explore the accompanying Jupyter notebook for any additional details on data exploration, preprocessing, and visualization that might precede this linear regression implementation.
 <br><br>
 Feel free to reach out for any questions, suggestions, or improvements!
